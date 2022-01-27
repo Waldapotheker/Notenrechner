@@ -26,7 +26,7 @@ if (ergebnis < 5) {
  document.getElementById("ausgabe").style.color = "crimson"
 }
 if (ergebnis > 5){
- document.getElementById("ausgabe").style.color = "black"
+ document.getElementById("ausgabe").style.color = "green"
 }
 if (ergebnis > 10){document.getElementById("ausgabe").style.color = "green "}
 
